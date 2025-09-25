@@ -8,7 +8,9 @@ The author's implementation of 'Safety-aware explainable deep reinforcement lear
 
 #### Part 1: MIMIC-IV Sepsis Cohort
 
-The code used to define, extract and preprocess the patient cohort from MIMIC-IV preprocess.ipynb. This code produces two CSV files, `preprocess_sepsis.csv` and `demog_sepsis.csv`.
+Run `preprocess.ipynb`
+
+The code used to define, extract and preprocess the patient cohort from MIMIC-IV. This code produces two CSV files, `preprocess_sepsis.csv` and `demog_sepsis.csv`.
 
 #### Part 2: Preprocess the extracted trajectories
 
