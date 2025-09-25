@@ -24,7 +24,7 @@ Run `train_rl.ipynb"`
 
 Based on the MDP formulation introduced in the paper, we train two independent DDQN, BCQ, IQL, and CQL models to discover and confirm dead-ends and identify treatments that may lead a patient toward these unfavorable states.
 
-------
+-----
 
 ### Step 2) Aggregate and Analyze the Results
 
