@@ -1,6 +1,6 @@
 # NMMCC
 
-The author's implementation of Safety-aware explainable deep reinforcement learning for nephrotoxic medication management in critical care
+The author's implementation of 'Safety-aware explainable deep reinforcement learning for nephrotoxic medication management in critical care'
 
 ### BibTeX
 ```bibtex
