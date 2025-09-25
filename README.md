@@ -38,7 +38,7 @@ This script takes the trained D- and R-Networks with the embedded states of the 
 
 #### Part 2) Generate Figures
 
-Run `make_plot.py`
+Run `make_plot.py` to generate figures in the paper.
 
 ### BibTeX
 ```bibtex
