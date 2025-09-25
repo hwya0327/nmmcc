@@ -22,7 +22,7 @@ The patient cohort provided in part 1 is extracted for general purposes. This sc
 
 ### Step 1) Train the Dead-end (D-) and Recovery (R-) Networks
 
-Run `train_rl.ipynb"`
+Run `train_rl.ipynb`
 
 Based on the MDP formulation introduced in the paper, we train two independent DDQN, BCQ, IQL, and CQL models to discover and confirm dead-ends and identify treatments that may lead a patient toward these unfavorable states.
 
@@ -32,13 +32,13 @@ Based on the MDP formulation introduced in the paper, we train two independent D
 
 #### Part 1) Results aggregation
 
-Run `test_rl.ipynb"`
+Run `test_rl.ipynb`
 
 This script takes the trained D- and R-Networks with the embedded states of the test set to aggregate results and identify potentially high-risk states and treatments.
 
 #### Part 2) Generate Figures
 
-Run `make_plot.py"`
+Run `make_plot.py`
 
 ### BibTeX
 ```bibtex
